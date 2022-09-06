@@ -1,0 +1,16 @@
+[
+  {
+    "stu_num": 00000000000,
+    "name": "某某某",
+    "name_pinyin": "moumoumou",
+    "sex": "男",
+    "birth": "xxxx-xx-xx",
+    "phone": 0000000000,
+    "id_card": 0000000000000000,
+    "original_class": "那个那个班",
+    "original_director_and_phone": "某某某 12345678910",
+    "dormitory": "00000",
+    "emergency_contact_and_phone": "某某某 12345678910",
+    "time_in_elite": "xxxx-xx-xx"
+  }
+]
