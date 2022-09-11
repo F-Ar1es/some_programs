@@ -1,0 +1,2 @@
+openssl genrsa -out pri_key.pem 2048
+openssl rsa -in pri_key.pem -pubout -out pub_key.pub
